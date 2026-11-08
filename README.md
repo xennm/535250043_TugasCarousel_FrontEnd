@@ -1,4 +1,5 @@
-NIM: 535250043, NAMA: NICHOLAS TANNAYDI
+NAMA: NICHOLAS TANNAYDI
+NIM: 535250043 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
